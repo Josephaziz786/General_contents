@@ -6,3 +6,6 @@
 ## git push origin --force
 
 due to the soft flag, I still have it in my local showing in green which means it is still in the staging area. 
+
+
+## I write these things on github in read.md file and then i want to get those changes locally. 
