@@ -5,6 +5,9 @@
 ## git reset --soft HEAD~1
 ## git push origin --force
 
+Now with gut origin --force
+the commit gets deleted from github too. 
+
 due to the soft flag, I still have it in my local showing in green which means it is still in the staging area. 
 
 
